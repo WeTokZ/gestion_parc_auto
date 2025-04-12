@@ -34,9 +34,14 @@ Le projet a été développé en local avec **WAMP** et **PhpMyAdmin**.
 
 > Quelques captures de l'application
 
-![Dashboard](assets/dashboard.png)  
-![Formulaire](assets/formulaire_vehicule.png)  
-![PDF Export](assets/export_pdf.png)
+<p align="center">
+  <img src="assets/dashboard.png" alt="Dashboard" width="600"/>
+  <br/>
+  <img src="assets/Formulaire.png" alt="Formulaire" width="400"/>
+  <br/>
+  <img src="assets/ExportPDF.png" alt="Export PDF" width="400"/>
+</p>
+
 
 ---
 
