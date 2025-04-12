@@ -32,9 +32,9 @@ Le projet a été développé en local avec **WAMP** et **PhpMyAdmin**.
 
 ## 📸 Aperçus
 
-> Quelques captures de l'application (à insérer dans le dépôt) :
+> Quelques captures de l'application
 
-![Dashboard](C:\Users\urani\Desktop\Projet\portfolio\assets\images\parcauto3.png)  
+![Dashboard](assets/dashboard.png)  
 ![Formulaire](assets/formulaire_vehicule.png)  
 ![PDF Export](assets/export_pdf.png)
 
